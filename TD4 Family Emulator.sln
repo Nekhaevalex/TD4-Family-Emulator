@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD4 Family Emulator", "TD4 Family Emulator\TD4 Family Emulator.csproj", "{9FF0D43D-728D-4C96-8454-4C0CCA9F2729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD4 Family Emulator", "TD4 Family Emulator\TD4 Family Emulator.csproj", "{9FF0D43D-728D-4C96-8454-4C0CCA9F2729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIWindows", "CLIWindows\CLIWindows.csproj", "{5A7834CA-0F36-47F2-9A81-8FD673350AE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9FF0D43D-728D-4C96-8454-4C0CCA9F2729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FF0D43D-728D-4C96-8454-4C0CCA9F2729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FF0D43D-728D-4C96-8454-4C0CCA9F2729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7834CA-0F36-47F2-9A81-8FD673350AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7834CA-0F36-47F2-9A81-8FD673350AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7834CA-0F36-47F2-9A81-8FD673350AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7834CA-0F36-47F2-9A81-8FD673350AE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
